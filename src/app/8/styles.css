@@ -1,0 +1,12 @@
+/* styles.css */
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 110%;
+    overflow: hidden;
+  }
+  
+  #main-container, #configurator, #canvas-container {
+    width: 100%;
+    height: 95%;
+  }
